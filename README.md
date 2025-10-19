@@ -137,4 +137,3 @@ If a user likes *Toy Story (1995)*, the system might recommend:
 
 ---
 
-Would you like me to add a **diagram or flowchart** section showing how the three recommendation systems (Popularity, Collaborative, Content-Based) work and connect? It’ll make your README visually stronger for presentations or GitHub.
