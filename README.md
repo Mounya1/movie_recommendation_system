@@ -124,15 +124,6 @@ If a user likes *Toy Story (1995)*, the system might recommend:
 * Provides **explainable recommendations** (“because you liked X”).
 * Best used when metadata (genre, keywords, descriptions) is rich.
 
----
-
-
-
-## Future Enhancements
-
-* Combine models into a **Hybrid Recommender System** for better accuracy.
-* Incorporate **deep learning-based embeddings** for advanced similarity detection.
-* Deploy as an interactive web app using **Streamlit or Flask**.
 
 
 ---
